@@ -1,0 +1,7 @@
+D:\Usuarios\Gonzalo\Documentos\MEGAsync\OSEP\exercises\99-Arsenal\DLL Proxying\encrypt\encrypt\encrypt\bin\x64\Release\encrypt.exe.config
+D:\Usuarios\Gonzalo\Documentos\MEGAsync\OSEP\exercises\99-Arsenal\DLL Proxying\encrypt\encrypt\encrypt\bin\x64\Release\encrypt.exe
+D:\Usuarios\Gonzalo\Documentos\MEGAsync\OSEP\exercises\99-Arsenal\DLL Proxying\encrypt\encrypt\encrypt\bin\x64\Release\encrypt.pdb
+D:\Usuarios\Gonzalo\Documentos\MEGAsync\OSEP\exercises\99-Arsenal\DLL Proxying\encrypt\encrypt\encrypt\obj\x64\Release\encrypt.csproj.CoreCompileInputs.cache
+D:\Usuarios\Gonzalo\Documentos\MEGAsync\OSEP\exercises\99-Arsenal\DLL Proxying\encrypt\encrypt\encrypt\obj\x64\Release\encrypt.exe
+D:\Usuarios\Gonzalo\Documentos\MEGAsync\OSEP\exercises\99-Arsenal\DLL Proxying\encrypt\encrypt\encrypt\obj\x64\Release\encrypt.pdb
+D:\Usuarios\Gonzalo\Documentos\MEGAsync\OSEP\exercises\99-Arsenal\DLL Proxying\encrypt\encrypt\encrypt\obj\x64\Release\encrypt.csproj.AssemblyReference.cache
